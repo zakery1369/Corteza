@@ -27,6 +27,8 @@ services:
       POSTGRES_PASSWORD: corteza
 ```
 
+---
+
 Create .env next to docker-compose.yml
 ### Configure .env
 
